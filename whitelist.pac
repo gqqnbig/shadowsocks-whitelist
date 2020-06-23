@@ -1,4 +1,6 @@
-var __USERRULES__ = [];
+var __USERRULES__ = [
+"github.com",
+];
 
 // Author: iBug <ibugone.com>
 // Time: 2020-06-21 19:56:05 GMT+8
