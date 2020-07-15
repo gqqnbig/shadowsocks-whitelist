@@ -1,18 +1,27 @@
 var __USERRULES__ = [
+".mo", //macao sites
 "certbot.eff.org",
+"chase.com",
+"desktop.line-scdn.net",
+"dm530.net",
 "ems.post",
 "gaming-fans.com",
+"gaming.stackexchange.com",
 "github.com",
 "greasyfork.org",
-"ipm.edu.mo",
 "jetbrains.com",
+"kayak.com",
 "namesilo.com",
 "nexusmods.com",
 "sectigostore.com",
+"software-download.microsoft.com",
 "sourceforge.net",
 "sqlitebrowser.org",
 "stackpath.bootstrapcdn.com",
 "superuser.com",
+"travel-assets.com",
+"vmware.com",
+"witcher3map.com",
 "wordpress.org",
 ];
 
