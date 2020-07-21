@@ -63,7 +63,11 @@ function isLan(host) {
   return belongsToSubnet(host, LAN);
 }
 
-var proxy = __PROXY__;
+var proxy;
+if("__PROXY__".startsWith("PROXY "))
+	proxy = "__PROXY__";
+else
+	proxy = eval('__PROXY__');
 var direct = "DIRECT";
 
 var userrules = __USERRULES__;
