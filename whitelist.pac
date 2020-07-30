@@ -3,6 +3,7 @@ var __USERRULES__ = [
 "certbot.eff.org",
 "chase.com",
 "chasecdn.com",
+"china-airlines.com",
 "desktop.line-scdn.net",
 "dm530.net",
 "doubao.cc",
@@ -24,9 +25,11 @@ var __USERRULES__ = [
 "stackpath.bootstrapcdn.com",
 "superuser.com",
 "travel-assets.com",
+"venmo.com",
 "vmware.com",
 "witcher3map.com",
 "wordpress.org",
+"ytimg.com",
 "zimbra.cs.ucla.edu",
 ];
 
