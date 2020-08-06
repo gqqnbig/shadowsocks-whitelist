@@ -1,9 +1,11 @@
 var __USERRULES__ = [
 ".mo", //macao sites
+"bigcommerce.com",
 "certbot.eff.org",
 "chase.com",
 "chasecdn.com",
 "china-airlines.com",
+"dell.com",
 "desktop.line-scdn.net",
 "dm530.net",
 "doubao.cc",
@@ -15,10 +17,13 @@ var __USERRULES__ = [
 "ifttt.com",
 "jetbrains.com",
 "kayak.com",
+"mcshosts.net",
+"media-amazon.com",
 "namesilo.com",
 "nexusmods.com",
 "phncdn.com", //pronhub dependencies
 "sectigostore.com",
+"sk-ii.com",
 "software-download.microsoft.com",
 "sourceforge.net",
 "sqlitebrowser.org",
