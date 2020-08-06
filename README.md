@@ -6,4 +6,6 @@
 
 ## 安装
 
-把whitelist.pac重命名为pac.txt，放到shadowsocks目录。shadowsocks选择PAC模式->使用本地PAC。
+把whitelist.pac重命名为pac.txt，放到[shadowsocks](https://github.com/shadowsocks/shadowsocks-windows)目录。shadowsocks选择PAC模式->使用本地PAC。
+
+本PAC规则同时支持[v2rayN](https://github.com/2dust/v2rayN)。
