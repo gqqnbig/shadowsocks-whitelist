@@ -1,5 +1,16 @@
 const __USERRULES__ = [
-	'chat.openai.com',
+'2021hkcharter.com',
+'8964museum.com',
+'8964tiananmen.com',
+'blockedbyhk.com',
+'chat.openai.com',
+'dpp.org.tw',
+'goarmy.com',
+'hkchronicles.com',
+'hkdc.us',
+'hongkongwatch.org',
+'pct.org.tw',
+'twtjcdb.nhrm.gov.tw',
 ];
 
 let proxy;
