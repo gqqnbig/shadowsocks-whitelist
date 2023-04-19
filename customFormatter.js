@@ -4,7 +4,7 @@ module.exports = function (results) {
     const { filePath, messages, source } = result;
 
     if (messages.length > 0) {
-      const fileContent = source ? source.split('\n') : [];
+      const fileContent = (source ?? output ?? '').split('\n');
       output += `\n${filePath}\n`;
 
       messages.forEach((message) => {
