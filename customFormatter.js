@@ -10,7 +10,7 @@ module.exports = function (results) {
       messages.forEach((message) => {
         const { line, column, ruleId, message: msg, severity } = message;
         const errorWarning = severity === 1 ? 'warning' : 'error';
-        output += `  ${line}:${column}  ${errorWarning}  ${msg} (${ruleId})\n`;
+        output += `  ${line}:${column}\t${errorWarning}\t${msg}\t(${ruleId})\n`;
 
         // Display the source code line with the error
         const sourceLine = fileContent[line - 1];
