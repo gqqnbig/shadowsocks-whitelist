@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 const __USERRULES__ = [
 '2021hkcharter.com',
 '8964museum.com',
@@ -20,10 +21,13 @@ const __USERRULES__ = [
 'twtjcdb.nhrm.gov.tw',
 'yewtu.be'
 ];
+/* eslint-enable no-underscore-dangle */
 
 let proxy;
+/* eslint-disable no-eval */
 if ('__PROXY__'.startsWith('PROXY ')) proxy = '__PROXY__';
 else proxy = eval('__PROXY__');
+/* eslint-enable no-eval */
 const direct = 'DIRECT';
 
 const userrules = __USERRULES__;
