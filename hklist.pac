@@ -11,6 +11,8 @@ const __USERRULES__ = [
 'hkdc.us',
 'hongkongwatch.org',
 'pct.org.tw',
+'sci-hub.se',
+'surfshark.com',
 'twtjcdb.nhrm.gov.tw',
 'yewtu.be'
 ];
