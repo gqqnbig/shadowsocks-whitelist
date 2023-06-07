@@ -13,7 +13,7 @@ var __USERRULES__ = [
 "gaming-fans.com",
 "gaming.stackexchange.com",
 "greasyfork.org",
-"gstatic.com",
+// "gstatic.com", //fonts.gstatic.com 被屏蔽
 "ifttt.com",
 "jetbrains.com",
 "kayak.com",
