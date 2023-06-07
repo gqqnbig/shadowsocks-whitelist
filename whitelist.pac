@@ -28,6 +28,7 @@ var __USERRULES__ = [
 "sourceforge.net",
 "sqlitebrowser.org",
 "stackpath.bootstrapcdn.com",
+"steam.apac.qtlglb.com", //looks like it's where steams downloads games from
 "superuser.com",
 "travel-assets.com",
 "venmo.com",
