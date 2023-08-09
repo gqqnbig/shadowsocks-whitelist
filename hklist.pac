@@ -4,6 +4,7 @@ const __USERRULES__ = [
 '8964tiananmen.com',
 'blockedbyhk.com',
 'chat.openai.com',
+'claude.ai',
 'dpp.org.tw',
 'goarmy.com',
 'hkchronicles.com',
@@ -11,6 +12,7 @@ const __USERRULES__ = [
 'hongkongwatch.org',
 'pct.org.tw',
 'twtjcdb.nhrm.gov.tw',
+'yewtu.be'
 ];
 
 let proxy;
