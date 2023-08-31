@@ -10,6 +10,8 @@ const __USERRULES__ = [
 'hkchronicles.com',
 'hkdc.us',
 'hongkongwatch.org',
+'ipfs.io',
+'ipfs.tech',
 'libgen.is',
 'libgen.rs',
 'libgen.st',
