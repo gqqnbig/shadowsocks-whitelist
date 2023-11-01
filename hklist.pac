@@ -7,6 +7,7 @@ const __USERRULES__ = [
 'claude.ai',
 'dpp.org.tw',
 'goarmy.com',
+'gov.taipei',
 'hkchronicles.com',
 'hkdc.us',
 'hongkongwatch.org',
