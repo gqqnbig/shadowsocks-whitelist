@@ -3,6 +3,7 @@ const __USERRULES__ = [
 '8964museum.com',
 '8964tiananmen.com',
 'blockedbyhk.com',
+'cdn.oaistatic.com',
 'chat.openai.com',
 'claude.ai',
 'dpp.org.tw',
