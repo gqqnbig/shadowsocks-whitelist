@@ -20,6 +20,7 @@ const __USERRULES__ = [
 'library.lol',
 'pct.org.tw',
 'sci-hub.se',
+'subvod.fr',
 'surfshark.com',
 'twtjcdb.nhrm.gov.tw',
 'yewtu.be'
