@@ -5,6 +5,7 @@ const __USERRULES__ = [
 'auth0.openai.com',
 'bard.google.com',
 'blockedbyhk.com',
+'cachedview.com',
 'cdn.oaistatic.com',
 'chat.openai.com',
 'claude.ai',
