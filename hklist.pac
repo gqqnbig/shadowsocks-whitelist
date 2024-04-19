@@ -27,6 +27,8 @@ const __USERRULES__ = [
 'subvod.fr',
 'surfshark.com',
 'twtjcdb.nhrm.gov.tw',
+'ump.edu.pl',
+'ut.ee',
 'yewtu.be'
 ];
 
