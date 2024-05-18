@@ -14,6 +14,7 @@ const __USERRULES__ = [
 'dpp.org.tw',
 'gemini.google.com',
 'goarmy.com',
+'google.com',
 'gov.taipei',
 'hkchronicles.com',
 'hkdc.us',
@@ -31,7 +32,8 @@ const __USERRULES__ = [
 'twtjcdb.nhrm.gov.tw',
 'ump.edu.pl',
 'ut.ee',
-'yewtu.be'
+'yewtu.be',
+'youtube.com',
 ];
 
 let proxy;
