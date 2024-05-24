@@ -14,7 +14,6 @@ const __USERRULES__ = [
 'dpp.org.tw',
 'gemini.google.com',
 'goarmy.com',
-'google.com',
 'googlevideo.com',
 'gov.taipei',
 'hkchronicles.com',
@@ -46,6 +45,8 @@ const userrules = __USERRULES__;
 
 function FindProxyForURL(url, host) {
 	for (let i = 0; i < userrules.length; i += 1) {
+		if (host=="google.com") return proxy;
+		if (host=="www.google.com") return proxy;
 		if (host.endsWith(userrules[i])) return proxy;
 	}
 
