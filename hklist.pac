@@ -15,6 +15,7 @@ const __USERRULES__ = [
 'gemini.google.com',
 'goarmy.com',
 'google.com',
+'googlevideo.com',
 'gov.taipei',
 'hkchronicles.com',
 'hkdc.us',
