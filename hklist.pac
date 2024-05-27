@@ -33,6 +33,7 @@ const __USERRULES__ = [
 'sci-hub.se',
 'subvod.fr',
 'surfshark.com',
+'torontomu.ca',
 'twtjcdb.nhrm.gov.tw',
 'ump.edu.pl',
 'ut.ee',
