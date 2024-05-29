@@ -2,6 +2,7 @@ const __USERRULES__ = [
 '2021hkcharter.com',
 '8964museum.com',
 '8964tiananmen.com',
+'astrill.com',
 'au.dk',
 'auth.openai.com',
 'auth0.openai.com',
