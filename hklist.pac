@@ -15,6 +15,7 @@ const __USERRULES__ = [
 'claude.ai',
 'dpp.org.tw',
 'ecu.peopleadmin.com',
+'eu-browse.startpage.com',
 'gemini.google.com',
 'goarmy.com',
 'googlevideo.com',
