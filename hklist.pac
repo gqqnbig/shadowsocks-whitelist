@@ -1,5 +1,6 @@
 const __USERRULES__ = [
 '2021hkcharter.com',
+'2ip.io',
 '8964museum.com',
 '8964tiananmen.com',
 'astrill.com',
